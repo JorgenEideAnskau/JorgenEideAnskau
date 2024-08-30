@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**JorgenEideAnskau/JorgenEideAnskau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jørgen Eide Anskau**, a passionate programmer currently undertaking a bachelor's in Data engineering. 
 
-Here are some ideas to get you started:
+### 🌱 What I’m currently learning:
+- Mastering front-end technologies like React, Next.js, and Tailwind CSS.
+- Learning Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 I’m looking for help with:
+- Gaining more experience in large-scale project development and deployment.
+- Understanding advanced concepts in software engineering and architecture.
+- Networking with professionals and mentors in the tech industry.
+
+### 💬 Ask me about:
+- JavaScript, React, and front-end development.
+- Python programming and back-end development.
+- Tips on how to balance programming with a passion for business.
+- Any project ideas or collaboration opportunities.
+
+### 📫 How to reach me:
+- Email: [jorgeneideanskau@gmail.com](jorgeneideanskau@gmail.com) 
+- GitHub: [JorgenEideAnskau](https://github.com/JorgenEideAnskau)
+- My phone number 📲
+
+### ⚡ Fun fact:
+- I often go climbing, hiking, and playing games.
