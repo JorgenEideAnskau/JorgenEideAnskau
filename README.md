@@ -1,25 +1,39 @@
-## Hi there 👋
+# Jørgen Eide Anskau
 
-I'm **Jørgen Eide Anskau**, a passionate programmer currently pursuing a bachelor's degree in Data Engineering.
+Final-year Computer Engineering student at OsloMet, focused on backend development.
 
-### 🌱 What I’m currently learning:
-- Mastering front-end technologies like React, Next.js, and Tailwind CSS.
-- Learning Java to strengthen my understanding of object-oriented programming.
+I build backends in Java/Spring Boot and Rust, and teach Java and web development as a
+student assistant.
 
-### 🤔 I’m looking for help with:
-- Gaining more experience in large-scale project development and deployment.
-- Understanding advanced concepts in software engineering and architecture.
-- Networking with professionals and mentors in the tech industry.
+### Working with
 
-### 💬 Ask me about:
-- JavaScript, React, and front-end development.
-- Python programming and back-end development.
-- Balancing programming with a passion for business.
-- Project ideas or collaboration opportunities.
+- **Languages:** Java, Rust, TypeScript, JavaScript, SQL, Python
+- **Backend:** Spring Boot, Spring JDBC, axum, cqrs-es, PostgreSQL
+- **Infrastructure:** Docker, Nix, GitHub Actions, S3-compatible object storage
+- **Frontend:** React, Vite
 
-### 📫 How to reach me:
-- Email: [jorgeneideanskau@gmail.com](mailto:jorgeneideanskau@gmail.com)
-- My phone number 📲
+### Projects
 
-### ⚡ Fun fact:
-- I love climbing, hiking, and playing games in my free time.
+**Metronomicon** — a crowdsourced wiki for OsloMet students. React/TypeScript frontend,
+Rust backend built on an event sourcing and CQRS architecture with PostgreSQL as the event
+store. As backend lead I set up Garage (S3-compatible object storage) for file uploads and
+worked on deployment with Docker, Nix and GitHub Actions.
+
+### Teaching
+
+Student assistant at OsloMet since 2025:
+
+- **DAPE1400** Programmering i Java (2025, 2026)
+- **DATA1700** Webutvikling (2026)
+
+Supervising students, reviewing submissions, and developing exercise material, including a
+fullstack CRUD application built with Spring Boot, PostgreSQL and JavaScript.
+
+### Currently looking for
+
+A bachelor thesis project and a backend position for 2027.
+
+### Contact
+
+- jorgeneideanskau@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/j%C3%B8rgeneideanskau/)
